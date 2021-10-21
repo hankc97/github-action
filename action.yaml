@@ -1,1 +1,2 @@
-jobs:
+on: 
+  check_run
