@@ -26,6 +26,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
          ssh-key: 1313rdd
+         php-version: '8.0'
+         args: hello
             
 
       # Runs a single command using the runners shell
